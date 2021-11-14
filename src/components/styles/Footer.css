@@ -1,0 +1,8 @@
+.footer-border {
+    border: 1px solid;
+    margin-top: 5px;
+}
+.footer-title {
+    padding-left: 0.5em;
+    text-align: justify;
+}
